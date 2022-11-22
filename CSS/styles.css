@@ -47,8 +47,15 @@ body{
     border: 0;
 }
 .txtleft{
-
+padding-left: 50px !important;
+padding-right: 30PX !important;
 }
 .txtright{
-    
+padding-right: 50px !important;
+padding-left: 30PX !important;
+}
+.place{
+    padding-left: 10px;
+    font-weight: 700;
+    fiont-size: var(--subtitulo);
 }
