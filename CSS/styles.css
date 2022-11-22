@@ -59,14 +59,12 @@ padding-left: 30PX !important;
     font-weight: 700;
     font-size: var(--subtitulo);
 }
-.btns{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
-.btn{
-
-width: 561px !important;
-height: 50px !important;
+.col-12 button{
+    width: 100%;
+    height: 40px;
+    border-radius: 0 !important;
+    background-color:var(--repuesta) ;
+    font-weight:700 ;
+    font-size: var(--subtitulo);
+    padding: 0;
 }
